@@ -1,4 +1,4 @@
-// Interface and Type Aliases
+// Interface 
 
 function hamaraPyar(alu: number, tomato: string){
     alu.toLocaleString
