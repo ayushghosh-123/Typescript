@@ -14,7 +14,8 @@ interface user{
 }
 function getDataOfUser(obj: user){
     obj.name,
-    obj.password
+    obj.password,
+    obj.gender
 }
 
 getDataOfUser({name: "ayush", email: "ghoshayush3084@gmail.com", password: "Ayu@30987", gender: "Male"})
