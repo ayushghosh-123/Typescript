@@ -10,11 +10,11 @@ interface user{
     name: string,
     email: string,
     password: string,
-    gender?: string
+    gender?: string //ban gya optional lo karlo bat
 }
 function getDataOfUser(obj: user){
     obj.name,
     obj.password
 }
 
-getDataOfUser({name: "ayush", email: "ghoshayush3084@gmail.com", password: "Ayu@30987"})
+getDataOfUser({name: "ayush", email: "ghoshayush3084@gmail.com", password: "Ayu@30987", gender: "Male"})
