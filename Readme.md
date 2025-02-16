@@ -9,7 +9,7 @@ This repository showcases my TypeScript learning progress.  Feel free to explore
 
 
 2. ITRODUCTION BASIC TYPE 👍
-3 PRIMITIVE TYPE 👍
+3. PRIMITIVE TYPE 👍
 4. ARRAYS 👍
 5. TUPLES 👍
 6. ENUMS 👍
