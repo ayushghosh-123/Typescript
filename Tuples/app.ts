@@ -1,3 +1,3 @@
-// let array6: [string, number] = ["harsh", 22]
+let array6: [string,number , boolean] = ["harsh", 22, true]
 
-// let array5: [number,string] = [12,"harsh"]
+let array5: [number,string] = [12,"harsh"]

@@ -7,7 +7,7 @@ interface Halua<T>{
 }
 
 function gohan(obj: Halua<string>){
-    
+    // obj.key.repeat
 }
 
 gohan({name: "foo", age: 25, key: "ajab gajab"})

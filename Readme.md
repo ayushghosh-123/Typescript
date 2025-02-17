@@ -7,19 +7,24 @@ This repository showcases my TypeScript learning progress.  Feel free to explore
 ## 🔥TOPIC MENTION HERE -
 1. SETTING , INSTALLATION, AND EXTENSION SET UP
 
+a. TYPESCRIPT INSTALL - 
+> npm i typescript
+
+
+
 
 2. ITRODUCTION BASIC TYPE 👍
 3. PRIMITIVE TYPE 👍
 4. ARRAYS 👍
 5. TUPLES 👍
-6. ENUMS 👍
-7. ANY , UNKNOWN  VOID & MORE 👍
-8. TYPE INTERFERENCE & TYPE ANNOTATION 👍
-9. MORE ABOUT TYPE ANNOTATION 👍
-10. INTERFACE & TYPE ALIASES 👍
-11. EXTENDING INTERFACE 👍
-12. TYPE ALIASES 👍
-13. INSERCTION TYPES 👍
+6. ENUMS 👍                                 (neya mal hai dhyan sai kar na )
+7. ANY , UNKNOWN  VOID & MORE 👍            (same for this)
+8. TYPE INTERFERENCE & TYPE ANNOTATION 👍   (same for this)
+9. MORE ABOUT TYPE ANNOTATION 👍            (same for this)
+10. INTERFACE & TYPE ALIASES 👍             (same for this)
+11. EXTENDING INTERFACE 👍                  (same type this)
+12. TYPE ALIASES 👍                         (ek hi bat kitna )
+13. INSERCTION TYPES 👍                     (samaj lo abb ... 🥸)
 14. CLASS & OBJECT 👍
 15 PUBLIC , PRIVATE AND PROTECTED MODIFIER 👍
 16. OPTOIONAL PROPERTIES 👍
@@ -30,7 +35,7 @@ This repository showcases my TypeScript learning progress.  Feel free to explore
 21. FUNCTION 👍
 22. REST PARAMETER 👍
 23. OVERLOADING 👍
-24. GENETICS 👍
+24. GENETICS 👍 (Dhyan karna chao to 1-2 bar dubara dekh na)
 25. MODULES
 26. TYPE ASSERTION 
 27. TYPE GUARDS
@@ -42,4 +47,4 @@ This repository showcases my TypeScript learning progress.  Feel free to explore
 2. [https://youtu.be/30LWjhZzg50?si=oDsCcib1I-iRb928]
 
 ---
-# HAPPY CODDING ❤️
+# HAPPY CODDING 💙💙
