@@ -1,6 +1,8 @@
-var Shery = /** @class */ (function () {
-    function Shery() {
-        this.version = 2.0;
+"use strict";
+class Shery {
+    static getRandomNumber() {
+        return Math.random();
     }
-    return Shery;
-}());
+}
+Shery.version = 2.0;
+let shery1 = new Shery();
