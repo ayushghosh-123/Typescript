@@ -28,7 +28,7 @@ This repository showcases my TypeScript learning progress.  Feel free to explore
 19. STATIC MEMBERS 👍
 20. ABSTRACT MEMBER 👍
 21. FUNCTION 👍
-22. REST PARAMETER 
+22. REST PARAMETER 👍
 23. OVERLOADING
 24. GENETICS 
 25. MODULES
