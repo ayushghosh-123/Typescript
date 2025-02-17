@@ -30,7 +30,7 @@ This repository showcases my TypeScript learning progress.  Feel free to explore
 21. FUNCTION 👍
 22. REST PARAMETER 👍
 23. OVERLOADING 👍
-24. GENETICS 
+24. GENETICS 👍
 25. MODULES
 26. TYPE ASSERTION 
 27. TYPE GUARDS

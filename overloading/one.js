@@ -11,5 +11,5 @@ function Ankit(pay, age, phone) {
     }
 }
 // Correct function calls
-// Ankit("ayush");
+Ankit("ayush");
 Ankit("ayush", 21, 9064941837);
